@@ -27,9 +27,9 @@
 ### 📦 نصب برای توسعه/تست محلی
 
 **فایرفاکس:**
-1. آدرس `about:debugging#/runtime/this-firefox` را باز کنید
-2. روی «Load Temporary Add-on» کلیک کنید
-3. فایل `manifest.json` داخل پوشه‌ی افزونه را انتخاب کنید
+1. آدرس `https://addons.mozilla.org/en-US/firefox/addon/caspian-ai-rtl/` را باز کنید
+2. روی «Add to Firefox» کلیک کنید
+3. افزونه را انتخاب کنید
 
 **کروم:**
 1. آدرس `chrome://extensions` را باز کنید
@@ -75,9 +75,9 @@ None of these platforms expose the exact token count on the page itself (that da
 ### 📦 Local install for development/testing
 
 **Firefox:**
-1. Open `about:debugging#/runtime/this-firefox`
-2. Click "Load Temporary Add-on"
-3. Select the `manifest.json` file inside the extension folder
+1. Open `https://addons.mozilla.org/en-US/firefox/addon/caspian-ai-rtl/`
+2. Click "Add to firefox"
+3. Install the extension
 
 **Chrome:**
 1. Open `chrome://extensions`
