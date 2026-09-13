@@ -36,9 +36,6 @@
 2. «حالت توسعه‌دهنده» (Developer mode) را فعال کنید
 3. روی «Load unpacked» کلیک کرده و پوشه‌ی افزونه را انتخاب کنید
 
-### 🚀 راهنمای انتشار
-راهنمای کامل قدم‌به‌قدم انتشار روی فروشگاه فایرفاکس (AMO) و فروشگاه کروم در فایل [`PUBLISHING.md`](./PUBLISHING.md) آمده است.
-
 ### 🗂 ساختار پروژه
 ```
 manifest.json     تنظیمات اصلی افزونه (سازگار با MV3، هم فایرفاکس هم کروم)
@@ -83,9 +80,6 @@ None of these platforms expose the exact token count on the page itself (that da
 1. Open `chrome://extensions`
 2. Enable "Developer mode"
 3. Click "Load unpacked" and select the extension folder
-
-### 🚀 Publishing guide
-See [`PUBLISHING.md`](./PUBLISHING.md) for the full step-by-step guide to publishing on the Firefox Add-ons store (AMO) and the Chrome Web Store.
 
 ### 🗂 Project structure
 ```
